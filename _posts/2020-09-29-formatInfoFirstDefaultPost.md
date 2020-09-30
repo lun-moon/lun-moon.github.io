@@ -1,4 +1,4 @@
-# This is the title
+# Guide post from fast_template (first default post!)
 
 Here's the table of contents:
 
