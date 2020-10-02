@@ -12,8 +12,11 @@ However do not try to
 **`                 ^~~~~~~~`**  
 **`                 Int(    )`**  
 
-Also the way to enter a new line in markdown (what this blog uses as its source) is weird.  
-[https://daringfireball.net/projects/markdown/syntax#p][]  
-[https://stackoverflow.com/a/33191810][]  
+Also the way to enter a new line in markdown is weird (two spaces at the end of the line).  
+<https://daringfireball.net/projects/markdown/syntax#p>  
+
+And don't forget the automatic links style (http address in between `<>`).  
+<https://daringfireball.net/projects/markdown/syntax#misc>
+
 
 Prob will be worth it to know this stuff though, yeah.
