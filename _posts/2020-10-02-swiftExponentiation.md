@@ -13,7 +13,7 @@ However do not try to
 **`                 Int(    )`**  
 
 Also the way to enter a new line in markdown (what this blog uses as its source) is weird.  
-(https://daringfireball.net/projects/markdown/syntax#p)  
-(https://stackoverflow.com/a/33191810)  
+[https://daringfireball.net/projects/markdown/syntax#p]  
+[https://stackoverflow.com/a/33191810]  
 
 Prob will be worth it to know this stuff though, yeah.
