@@ -13,8 +13,8 @@
 
 # <https://www.gatsbyjs.com/docs/end-to-end-testing/>
 
-5. `npm install --save-dev cypress start-server-and-test`
-6. cd gatsby-site
+5. cd gatsby-site
+6. `npm install --save-dev cypress start-server-and-test`
 7. vim cypress.json  [new file]
 ```
 {
