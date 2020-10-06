@@ -7,7 +7,7 @@
 3.1 https://www.gatsbyjs.com/tutorial/part-zero/ (Prettier plugin for vscode)
 
 # <https://www.gatsbyjs.com/docs/quick-start/>  
-4. npm install -g gatsby-cli
+4. npm install -g gatsby-cli + telemetry off
 5. gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 
