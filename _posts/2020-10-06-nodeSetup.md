@@ -1,10 +1,10 @@
 # Steps to follow in setting up a nodeJS environment (Ubuntu)
-1. https://snapcraft.io/node
-2. https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
-3. https://snapcraft.io/code + telemetry off
+1. <https://snapcraft.io/node>
+2. <https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally>
+3. <https://snapcraft.io/code> + telemetry off
  -- note to run this you may need to enter on the bash command line to prevent some annoying keyboard shortcut problem
 `GTK_IM_MODULE="xim" code` ;
-3.1 https://www.gatsbyjs.com/tutorial/part-zero/ (Prettier plugin for vscode)
+3.1 <https://www.gatsbyjs.com/tutorial/part-zero/> (Prettier plugin for vscode)
 
 # <https://www.gatsbyjs.com/docs/quick-start/>  
 4. npm install -g gatsby-cli + telemetry off
