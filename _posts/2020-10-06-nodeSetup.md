@@ -3,11 +3,12 @@
 2. <https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally>
 3. <https://snapcraft.io/code> + telemetry off
  -- note to run this you may need to enter on the bash command line to prevent some annoying keyboard shortcut problem
-`GTK_IM_MODULE="xim" code` ;
-3.1 <https://www.gatsbyjs.com/tutorial/part-zero/> (Prettier plugin for vscode)
+`GTK_IM_MODULE="xim" code`  
+3.1 <https://www.gatsbyjs.com/tutorial/part-zero/> (Prettier plugin for vscode)  
+3.2 <https://stackoverflow.com/a/50892839> don't forget the vscode-vim extension and this fix for code folds
 
 # <https://www.gatsbyjs.com/docs/quick-start/>  
-4. npm install -g gatsby-cli + telemetry off
+4. npm install -g gatsby-cli + telemetry off  
 5. gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 
 
