@@ -9,7 +9,7 @@ probably the best way to solve this puzzle is right here
 
 But I would like to ask for help with code below, and the background of using brackets to make a string conform to a RangeExpression, because if I use the prcactice in regular code I need to know when it breaks.
 
-(as an aside, I'm aware that if I wanted to work around the issue I could use a string extension.
+(as an aside, I'm aware that if I wanted to work around the Int vs String.Index issue I could use a string extension.
 But not sure where to store this in a project so it is clear to the next person that the code exists.
 <https://stackoverflow.com/a/46627527>
 https://stackoverflow.com/a/26775912
