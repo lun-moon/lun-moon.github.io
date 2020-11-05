@@ -1,7 +1,7 @@
 # Brackets to conform to RangeExpression?
 
 kata link:
-https://www.codewars.com/kata/52fba66badcd10859f00097e/train/swift
+<https://www.codewars.com/kata/52fba66badcd10859f00097e/train/swift>
 
 
 probably the best way to solve this puzzle is right here
@@ -13,7 +13,7 @@ But I would like to ask for help with code below, and the background of using br
 But not sure where to store this in a project so it is clear to the next person that the code exists.
 <https://stackoverflow.com/a/46627527>
 https://stackoverflow.com/a/26775912
-)
+;  as an extra aside, apparently strings use a "count" method now instead of "length", not sure how to retrieve the swift version in each "web notebook for swift" that I'm using however)
 ```
 func disemvowel(_ s: String) -> String {
   var builderString = "" 
