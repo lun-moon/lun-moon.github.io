@@ -73,11 +73,11 @@ note if this ine contains a plain string "ik" I can contcatenate it all day
 
 ```
 truncated
-builderString = builderString + "ik" 
+builderString = builderString + "jk" 
 truncated
 print(disemvowel("some Text")
 ```
 
-Returns "ikikikikikik
+Returns "jkjkjkjkjkjk
 
 
