@@ -58,6 +58,7 @@ func disemvowel(_ s: String) -> String {
   
   return(builderString)
 }
+print(disemvowel("some Text")
 
 STDERR:
 
@@ -71,7 +72,10 @@ Swift.Collection:2:23: note: where 'R' = 'String.Index'
 note if this ine contains a plain string "ik" I can contcatenate it all day
 
 ```
+truncated
 builderString = builderString + "ik" 
+truncated
+print(disemvowel("some Text")
 ```
 
 Returns "ikikikikikik
