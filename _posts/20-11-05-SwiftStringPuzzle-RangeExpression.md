@@ -1,4 +1,4 @@
-# swiftStringPuzzleOne  
+# Brackets to conform to RangeExpression?
 
 kata link:
 https://www.codewars.com/kata/52fba66badcd10859f00097e/train/swift
