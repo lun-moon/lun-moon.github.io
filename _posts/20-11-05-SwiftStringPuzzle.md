@@ -1,4 +1,9 @@
 # swiftStringPuzzleOne  
+
+kata link:
+https://www.codewars.com/kata/52fba66badcd10859f00097e/train/swift
+
+
 probably the best way to solve this puzzle is right here
 <https://developer.apple.com/documentation/swift/string/2997150-removeall>
 
